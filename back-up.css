@@ -1,0 +1,146 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #000;
+  background: #fff;
+  line-height: 1.6;
+  margin: 0;
+  overflow-x: hidden;
+  position: relative;
+}
+
+main {
+  width: 1440px;
+  margin: 0 auto;
+  position: relative;
+}
+
+header {
+  background-color: #d9d9d9;
+  height: 1027px;
+  position: relative;
+}
+
+.logo {
+  width: 403px;
+  height: 300px;
+  position: absolute;
+  top: 45px;
+  left: 51px;
+}
+
+.profile {
+  width: 1080px;
+  height: 1080px;
+  position: absolute;
+  top: 221px;
+  left: 957px;
+}
+
+.nav-links {
+  position: absolute;
+  bottom: 50px;  /* adjust as needed */
+  left: 51px;
+}
+
+.nav-links a {
+  margin-right: 30px;
+  text-decoration: none;
+  color: black;
+  font-size: 32px;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+}
+
+.section-title {
+  position: absolute;
+  top: 53px;
+  left: 41px;
+  font-size: 32px;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+}
+
+.route-img {
+  width: 282px;
+  height: 1781px;
+  position: absolute;
+  top: 143px;
+  left: 41px;
+}
+
+.youtube-question {
+  position: absolute;
+  top: 142px;
+  left: 363px;
+  font-size: 32px;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+}
+
+.youtube-player {
+  width: 1080px;
+  height: 139px;
+  position: absolute;
+  top: 242px;
+  left: 334px;
+}
+
+.sleep-question {
+  position: absolute;
+  top: 448px;
+  left: 363px;
+  font-size: 32px;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+}
+
+.sleep-bar {
+  width: 861px;
+  height: 343px;
+  position: absolute;
+  top: 532px;
+  left: 362px;
+}
+
+.games-question {
+  position: absolute;
+  top: 978px;
+  left: 363px;
+  font-size: 32px;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+}
+
+.games-img {
+  width: 512px;
+  height: 512px;
+  position: absolute;
+  top: 1039px;
+  left: 362px;
+}
+
+.language-question {
+  position: absolute;
+  top: 1667px;
+  left: 363px;
+  font-size: 32px;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+}
+
+.language-img {
+  width: 1024px;
+  height: 419px;
+  position: absolute;
+  top: 1738px;
+  left: 362px;
+}
+
+footer {
+  position: absolute;
+  top: 3323px;
+  width: 100%;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+}
